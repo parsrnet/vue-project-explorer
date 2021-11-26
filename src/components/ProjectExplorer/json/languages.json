@@ -1,0 +1,56 @@
+[
+	{
+		"id": 100,
+
+		"name": "html5",
+		"displayName": "HTML5",
+		"img": "./html5_1200x1200.png",
+
+		"type": "frontend"
+	},
+	{
+		"id": 200,
+
+		"name": "css3",
+		"displayName": "CSS3",
+		"img": "./css3_1200x1693.png",
+
+		"type": "frontend"
+	},
+	{
+		"id": 300,
+
+		"name": "js",
+		"displayName": "Javascript",
+		"img": "./js_small.png",
+
+		"type": "fullstack"
+	},
+	{
+		"id": 400,
+
+		"name": "react",
+		"displayName": "ReactJS",
+		"img": "./react_1000x1000.png",
+
+		"type": "frontend"
+	},
+	{
+		"id": 500,
+
+		"name": "vue",
+		"displayName": "vue.js",
+		"img": "./vue_512x512.png",
+
+		"type": "frontend"
+	},
+	{
+		"id": 600,
+
+		"name": "nodejs",
+		"displayName": "NodeJS",
+		"img": "./nodejs_logo.png",
+
+		"type": "backend"
+	}
+]

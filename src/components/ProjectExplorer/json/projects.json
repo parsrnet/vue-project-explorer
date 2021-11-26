@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+
+		"title": "My First Project",
+		"description": "This was my first project. I really enjoyed it!",
+		"footer": "Copyright me 2020.",
+
+		"imgSrc": "project_1.png",
+		"altText": "",
+
+		"tags": ["react", "vue", "html", "html5", "css", "css3"]
+	},
+	{
+		"id": 2,
+
+		"title": "My Second Project",
+		"description": "This was my second first project. I really did not enjoy it.",
+		"footer": "Copyright me 2020.",
+
+		"imgSrc": "",
+		"altText": "",
+
+		"tags": ["react", "vue", "html", "html5", "css", "css3"]
+	},
+	{
+		"id": 3,
+
+		"title": "My Third Project",
+		"description": "This was my first second project. I oppositively didn't not disunenjoy it.",
+		"footer": "Copyright the future president 2020.",
+
+		"imgSrc": "",
+		"altText": "",
+
+		"tags": ["react", "vue", "html", "html5", "css", "css3"]
+	},
+	{
+		"id": 4,
+
+		"title": "I microwaved my hamster when I was four.",
+		"description": "Microwaved.",
+		"footer": "Society made you. I  made Society.",
+
+		"imgSrc": "",
+		"altText": "",
+
+		"tags": ["react", "vue", "html", "html5", "css", "css3"]
+	}
+]
